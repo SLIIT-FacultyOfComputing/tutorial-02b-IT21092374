@@ -10,7 +10,7 @@ int main()
     int no;
     long fac;
 
-    printf("Enter a Number : ");
+    cout<<"Enter a Number : ");
     scanf("%d", &no);
 
     fac = 1;
